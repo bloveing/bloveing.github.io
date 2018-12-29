@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2Funcategorized%2F28%2Fhello-world.html</url>
+    <content type="text"><![CDATA[通过keystone tenant项目列表的分页，其实可以看出openstack的当前的分页现状，目前我这边方式实现分页比较暴力，如果想在其他组件上通过这种方式也是可行的例如镜像、配置模版等，不过需要经过测试是否可行，我这里就不在具体说明，如果大家有其他好的方式可以告知我，互相学习。Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[以此为点，从新启航]]></title>
+    <url>%2FBlog%2F7%2FBlog%20Start.html</url>
+    <content type="text"></content>
+      <categories>
+        <category>Blog</category>
+      </categories>
+      <tags>
+        <tag>Blog</tag>
+      </tags>
+  </entry>
+</search>
